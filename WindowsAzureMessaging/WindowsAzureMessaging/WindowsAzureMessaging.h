@@ -15,6 +15,7 @@
 #import "SBURLConnection.h"
 #endif
 
+#import "ANHAsync.h"
 #import "ANHApplication.h"
 #import "ANHCustomDelegate.h"
 #import "ANHDelegateForwarder.h"
